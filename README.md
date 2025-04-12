@@ -18,3 +18,4 @@ Python, being a versatile language, can serve as the glue to orchestrate these t
 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/2aff44a9-4ea6-403d-9dad-a1d2be98d074)
